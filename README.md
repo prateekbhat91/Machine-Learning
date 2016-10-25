@@ -8,3 +8,4 @@ This repository contains implementation of various machine learning algorithms.
 
 2. **Classification:**
   1. **Naive Bayes(classification):** contains the implementation of naive bayes classification algorithm.
+  2. **Logistic-Regression:** contains implementation of logistic regression classifier for binary classification problem.
